@@ -1,25 +1,8 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Performce Comparison for IPC using Filing, Pipes, and Semaphore
+## OS Project 
 
-- This is
-- an unordered
-- list
+###Objective:
+Our main objective of this project is to implement inter process communication 
+using *filing*, *pipes* and *semaphores* and the compare their performance.
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an 
-image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)

@@ -12,8 +12,6 @@ int main(void)
 
 {
 
-
-
 int fd[2], nbytes;
 
 pid_t childpid;

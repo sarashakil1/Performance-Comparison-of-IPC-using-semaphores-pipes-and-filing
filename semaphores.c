@@ -35,7 +35,7 @@ void func(void *ptr)
      sem_wait(&mutex);
       //linear search starts
 
-        for(int c=x.start ; c<=x.end ;c++)
+      for(int c=x.start ; c<=x.end ;c++)
          {
           if(arr[c]==x.search)
           {

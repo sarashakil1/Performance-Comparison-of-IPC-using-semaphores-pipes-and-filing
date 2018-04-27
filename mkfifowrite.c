@@ -12,8 +12,7 @@
 int main()
 {
 
-    
-   int arr[50000];
+    int arr[50000];
     int fd;
     //char * myfifo = "/tmp/myfifo";
 

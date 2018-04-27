@@ -29,7 +29,7 @@ int main()
    if(count==0)
       printf("%d is not present in the file.\n",search);
    else
-      printf("%d is present %d times in the file.\n",search,count);
+     printf("%d is present %d times in the file.\n",search,count);
 //Linear search algorithm ends
 fr=fopen("shared.txt","w");
 fprintf(fr,"The Entered number is found %d time\n",count);
